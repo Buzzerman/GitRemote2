@@ -15,7 +15,9 @@
     <?php
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $hasil = $_POST['angka1'] + $_POST['angka2'];
-        echo "<h3>Hasil: $hasil</h3>";
+        echo "<h3>Hasil: $hasil</h3>"
+        <p>Hai</p>
+        <p>Halo</p>;
     }
     ?>
 </body>
