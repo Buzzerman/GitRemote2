@@ -17,7 +17,13 @@
         $hasil = $_POST['angka1'] + $_POST['angka2'];
         echo "<h3>Hasil: $hasil</h3>"
         <p>Hai</p>
-        <p>Halo</p>;
+        <p>Halo</p>
+
+        <ul>
+            <li>esateu</li>
+            <li>deua</li>
+            <li>tiga</li>
+        </ul>;
     }
     ?>
 </body>
